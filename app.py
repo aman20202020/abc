@@ -33,7 +33,7 @@ MODEL_PATH ='malaria.h5'
 model = load_model(MODEL_PATH)
 
 import cv2
-labels="/content/labels.txt"
+#labels="/content/labels.txt"
 
 
 
