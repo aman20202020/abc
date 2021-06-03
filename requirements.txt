@@ -4,4 +4,4 @@ sklearn
 flask
 gunicorn
 opencv-python
-tensorflow
+tensorflow-cpu
