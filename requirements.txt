@@ -4,5 +4,4 @@ sklearn
 flask
 gunicorn
 tensorflow
-keras
 opencv-python
