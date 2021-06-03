@@ -4,3 +4,4 @@ sklearn
 flask
 gunicorn
 opencv-python
+tensorflow
