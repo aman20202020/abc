@@ -5,6 +5,3 @@ flask
 matplotlib
 gunicorn
 seaborn
-opencv
-tensorflow
-keras
