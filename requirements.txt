@@ -2,9 +2,7 @@ pandas
 numpy
 sklearn
 flask
-matplotlib
 gunicorn
-seaborn
 tensorflow
 keras
 opencv-python
