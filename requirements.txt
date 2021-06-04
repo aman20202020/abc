@@ -5,4 +5,4 @@ flask
 gunicorn==20.1.0
 opencv-python
 tensorflow-cpu
-Jinja2==1.1.1
+Jinja2
